@@ -25,7 +25,7 @@ h1{
     margin: 20px;
     padding: 20px;
 }
-button{
+.price, button{
     width: 100%;
     height: 30px;
     background-color: rgb(46,204,113);
